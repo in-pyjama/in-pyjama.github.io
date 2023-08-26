@@ -22,12 +22,12 @@ title: Embedded Systems In Pyjama
 email: support@inpyjama.com
 description: >- # this means to ignore newlines until "baseurl:"
   Embedded Systems guide, for the engineer, by the engineer!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  https://github.com/in-pyjama
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
