@@ -1,4 +1,9 @@
-# Embedded Systems, in Pyjama!
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
 Embedded Systems guide, for the engineer, by the engineer!
 
 We are a bunch of embedded systems engineers trying to give back to the community by publishing and organizing content on various topics that an embedded engineer or an aspiring engineer might be interested in.
